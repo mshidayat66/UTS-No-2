@@ -1,7 +1,6 @@
 
 package com.lingkaran;
 
-
 public class SetengahLingkaran implements Lingkaran{
     double hasil;
     public SetengahLingkaran(){
@@ -21,7 +20,5 @@ public class SetengahLingkaran implements Lingkaran{
     
     public double getHasil(){
         return hasil;
-    }
-
-    
+    } 
 }
