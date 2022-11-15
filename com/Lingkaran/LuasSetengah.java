@@ -9,8 +9,7 @@ public class LuasSetengah {
     }
     
     public void HitungLuas(){
-        this.lingkaran.Luas();
-                
+        this.lingkaran.Luas();       
     }
     
     public void TampilkanHasil(){
