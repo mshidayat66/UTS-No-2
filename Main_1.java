@@ -9,7 +9,5 @@ public class Main_1 {
         
         luassatu.HitungLuas();
         luassatu.TampilkanHasil();
-        
-     
     }
 }
